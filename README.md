@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lakshyaxsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lakshyaxsoni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakshya soni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lakshya soni" height="30" width="40" /></a>
-<a href="https://fb.com/lakshya soni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lakshya soni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakshya-soni-a80a25190/ " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lakshya soni" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lakshya.soni.7967" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lakshya soni" height="30" width="40" /></a>
 <a href="https://instagram.com/lakshyaxsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lakshyaxsoni" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/DhKH2JakHS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/DhKH2JakHS" height="30" width="40" /></a>
 </p>
