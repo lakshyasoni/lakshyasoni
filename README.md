@@ -25,7 +25,7 @@
 <a href="https://twitter.com/lakshyaxsoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lakshyaxsoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/in/lakshya-soni-a80a25190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/public-profile/in/lakshya-soni-a80a25190/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/lakshya.soni.7967" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/lakshya.soni.7967" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/lakshyaxsoni/?igshid=n2cmpesn4bi2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/lakshyaxsoni/?igshid=n2cmpesn4bi2" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lakshyaxsoni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/lakshyaxsoni/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/DhKH2JakHS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/DhKH2JakHS" height="30" width="40" /></a>
 </p>
 
