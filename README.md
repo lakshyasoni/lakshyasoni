@@ -2,6 +2,7 @@
 <h3 align="center">A MERN Stack Developer, An Open Source Contributor, A Competitive Programmer & An E-sports Player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyasoni&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyasoni" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9916149/media/a9dbfea8e23e5b8e23db142528c3bc9f.png">
 
 - 🌱 I’m currently learning **DSA and doing competitive programming.**
 
