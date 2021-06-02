@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **lakshyasoni0811@gmail.com**
 
-- 📄 Know about my experiences [lakshyasoni.github.io](lakshyasoni.github.io)
+- 📄 Know about my experiences [lakshyasoni.github.io](https://lakshyasoni.github.io/)
 
 - ⚡ Fun fact **I think I am funny :)**
 
