@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyasoni&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyasoni" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9916149/media/a9dbfea8e23e5b8e23db142528c3bc9f.png">
 
-- 🌱 I’m currently learning **DSA and doing CP.**
+<!-- - 🌱 I’m currently learning **DSA and doing CP.** -->
 
 - 👯 I’m looking to collaborate on **some cool projects and lets get connected.**
 
-- 🤝 I’m looking for help with **Full-stack and CP.**
+<!-- - 🤝 I’m looking for help with **Full-stack and CP.** -->
 
 - 👨‍💻 I've done some projects to showcase my skills **do checkout my repositories.**
 
-- 💬 Ask me about **Front-end technologies.**
+- 💬 Ask me about **Web technologies.**
 
 - 📫 How to reach me **lakshyasoni0811@gmail.com**
 
