@@ -6,7 +6,7 @@
 
 <!-- - 🌱 I’m currently learning **DSA and doing CP.** -->
 
-- 👯 I’m looking to collaborate on **some cool projects and let's get connected.**
+- 👯 I’m looking to collaborate on **some cool projects, let's get connected.**
 
 <!-- - 🤝 I’m looking for help with **Full-stack and CP.** -->
 
