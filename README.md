@@ -12,7 +12,7 @@
 
 - 👨‍💻 I've done some projects to showcase my skills **do checkout my repositories.**
 
-- 💬 You can ask me about **Web technologies and DSA** 
+- 💬 You can ask me about **Web technologies and DSA!** 
 
 - 📫 How to reach me **lakshyasoni0811@gmail.com**
 
